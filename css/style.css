@@ -53,3 +53,7 @@
 .hero { 
     padding: 12em;
 }
+
+.hero__content button:hover {
+    background-color: rgb(55, 0, 94);
+}
